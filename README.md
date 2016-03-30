@@ -1,5 +1,6 @@
 Learning-And-Adaptivity
 =======================
+[![Gitter](https://badges.gitter.im/brsu/Learning-And-Adaptivity.svg)](https://gitter.im/brsu/Learning-And-Adaptivity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 - This page is currently under construction. 
 - The university learning platform LEA is still the official source of information.
