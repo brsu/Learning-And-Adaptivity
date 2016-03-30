@@ -42,3 +42,18 @@ http://www.cmpe.boun.edu.tr/~ethem/i2ml2e
 18. Reinforcement Learning
 19. Design and Analysis of Machine Learning Experiments
 
+##### Another Book, seems to be available 
+http://alex.smola.org/drafts/thebook.pdf
+svn://smola@repos.stat.purdue.edu/thebook/trunk/Book/thebook.tex
+
+##### Nvidia Links
+Everyone hates getting a bunch of newsletter mail, but I hightly recommend signing up to some of the nvidia newsletters.
+http://www.nvidia.com/object/newsletter.html, even if you don't have an Nvidia GPU they're often sharing very interesting articles and projects for Machine Learning, and Robotics.
+
+- http://www.nvidia.com/object/machine-learning.html
+- https://developer.nvidia.com/deep-learning
+- https://developer.nvidia.com/deep-learning-software
+
+If you have an Nvidia GPU and are using 14.04, check out their DIGITS project.
+- https://developer.nvidia.com/digits
+- https://github.com/NVIDIA/DIGITS
