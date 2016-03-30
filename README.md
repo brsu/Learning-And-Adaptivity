@@ -19,7 +19,7 @@ Learning-And-Adaptivity
 8. Genetic Algorithms
 
 
-##### Additional Topics covered in Alpaydin Book, slides available online 
+##### Additional Topics covered in Alpaydin Book "Introduction to Machine Learning", slides available online 
 http://www.cmpe.boun.edu.tr/~ethem/i2ml2e
 
 1. Introduction
